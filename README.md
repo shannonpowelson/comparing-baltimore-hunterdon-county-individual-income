@@ -8,6 +8,7 @@ _How is income distributed in city neighborhoods versus rural towns?_
 
 ## Data Analysis
 To start this analysis, we will look at two bar graphs showing the distribution of individual income in Baltimore City, MD and the distribution of income in Hunterdon County, NJ.  
+![alt text](https://github.com/shannonpowelson/comparing-baltimore-hunterdon-county-individual-income/blob/main/individualincomebaltimore.png)
 
 
 ## Summary
