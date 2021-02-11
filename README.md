@@ -28,4 +28,5 @@ The above graphs show that there is no clear association between individual inco
 
 
 ## Summary
+Overall, this data analysis revealed that the income distribution of neighborhoods in Baltimore City is very diverse and contains both high and low income extremes.  In contrast, the data analysis revealed that the income distribution of towns in Hunterdon County is relatively uniform.  There are no extreme values.  More research is needed to extend these findings to city neighborhoods and rural towns in general, but for this specific case, the data shows that city neighborhoods experience income diversity while rural towns have uniform incomes.  When searching for a reason for these differences in income distribution, the data analysis revealed that population and job density do not have a clear impact on income distributions in either location.  More data analysis using sociodemographic metrics would be helpful to determine the reason for the difference in these income distributions.  The outcomes of this analysis are important 
 
