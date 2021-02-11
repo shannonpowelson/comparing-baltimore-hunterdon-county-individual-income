@@ -14,7 +14,7 @@ The above graphs show that individual income is distributed differently in Balti
 
 __Why are incomes distributed differently in Baltimore City and Hunterdon County?__
 
-For the next part of the analysis, I tested my hypothesis on why I thought that this difference in income distrbution occurs.  I thought that job density and population density might have an impact on income distribution.  
+For the next part of the analysis, I tested my hypothesis on why I thought that this difference in income distrbution occurs.  I thought that job density and population density might have an impact on income distribution.  Areas with more available jobs might have higher incomes and areas with higher populations might have lower incomes because of more competition for jobs.  
 
 First, I investigated the impact of job density on income distribution in the following combination charts.  
 ![alt text](https://github.com/shannonpowelson/comparing-baltimore-hunterdon-county-individual-income/blob/main/jobdensitybaltimore.png)
@@ -24,6 +24,7 @@ The above graphs show that there is no clear association between job density and
 Since job density is not playing a role in income distribution differences, I investigated the impact of population density on income distribution in the following combination charts. 
 ![alt text](https://github.com/shannonpowelson/comparing-baltimore-hunterdon-county-individual-income/blob/main/populationdensitybaltimore.png)
 ![alt text](https://github.com/shannonpowelson/comparing-baltimore-hunterdon-county-individual-income/blob/main/populationdensityhunterdoncounty.png)
+The above graphs show that there is no clear association between individual income distribution and population density in Baltimore City and Hunterdon County.  This shows that the population in a certain area is not impacting the income.  
 
 
 ## Summary
