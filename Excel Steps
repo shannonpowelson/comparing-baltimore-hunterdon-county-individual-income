@@ -1,0 +1,7 @@
+First, I edited each of the raw data excel files.  I removed data on any neighborhoods or towns that are not in Baltimore City or Hunterdon County.  
+Then, I combined the Baltimore City data.  I put the Individual Income, Job Density, and Population Density data in columns next to each other so that the data lined up for each neighborhood in Baltimore.
+I combined the Hunterdon County data.  I put the Individual Income, Job Density, and Population Density data in columns next to each other so that the data lined up for each town in Hunterdon County.  
+For each graph, I made a new sheet in excel.  
+For the Individual Income graphs, I selected the individual income column and the name (of the neighborhood or town) column and made a bar graph in order to see the distribution of the incomes.  I made one graph for Baltimore City and one for Hunterdon County.
+For the combined graph for Job Density and Individual income, I selected the name, individual income, and job density columns.  I inserted a bar graph.  I selected the job density bars and chose a secondary axis.  Then I changed the chart type for job density to a line graph.  I changed the color combinations so that the bars and the lines could be read simultaneously.  I did this for Baltimore City and for Hunterdon County. 
+For the combined graph for Population Density, I used the same steps in step 6 except I selected name, individual income, and population density columns to make the graph.  
