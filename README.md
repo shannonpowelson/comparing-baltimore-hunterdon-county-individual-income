@@ -4,6 +4,33 @@ For this comparison, Baltimore City, MD and Hunterdon County, NJ are being exami
 ## Business Question
 _How is income distributed in city neighborhoods versus rural towns?_
 ## Data Sources
+1. Baltimore City - Individual Income Data
+https://github.com/shannonpowelson/comparing-baltimore-hunterdon-county-individual-income/blob/main/Baltimore%20City%20-%20Individual%20Income%20Data.xlsm
+This data from The Opportunity Atlas contains the average annual income for children from neighborhoods in Baltimore City, MD.  It is the individual income so a spouse's income is not included.  This data was collected in 2014-2015. 
+
+2. Baltimore City - Job Density Data
+https://github.com/shannonpowelson/comparing-baltimore-hunterdon-county-individual-income/blob/main/Baltimore%20City%20-%20Job%20density%20Data.xlsm
+This data from The Opportunity Atlas contains the number of jobs per square mile in each neighborhood in Baltimore City, MD.  This data was collected in 2013.  
+
+3. Baltimore City - Population Density Data
+https://github.com/shannonpowelson/comparing-baltimore-hunterdon-county-individual-income/blob/main/Baltimore%20City%20-%20Population%20Density%20Data.xlsm
+This data from The Opportunity Atlas contains the number of residents per square mile in each neighborhood in Baltimore City, MD.  This data was collected in 2010. 
+
+4. Hunterdon County - Individual Income Data
+https://github.com/shannonpowelson/comparing-baltimore-hunterdon-county-individual-income/blob/main/Hunterdon%20County%20-%20Individual%20Income.xlsm
+This data from The Opportunity Atlas contains the average annual income for children from towns in Hunterdon County, NJ.  It is the individual income so a spouse's income is not included.  This data was collected in 2014-2015. 
+
+5. Hunterdon County - Job Density Data
+https://github.com/shannonpowelson/comparing-baltimore-hunterdon-county-individual-income/blob/main/Hunterdon%20County%20-%20Job%20Density%20Data.xlsm
+This data from The Opportunity Atlas contains the number of jobs per square mile in each town in Hunterdon County, NJ.  This data was collected in 2013.
+
+6. Hunterdon County - Population Density Data
+https://github.com/shannonpowelson/comparing-baltimore-hunterdon-county-individual-income/blob/main/Hunterdon%20County%20-%20Population%20Density%20Data.xlsm
+This data from The Opportunity Atlas contains the number of residents per square mile in each town in Hunterdon County, NJ.  This data was collected in 2010.
+
+7. Analyzed Excel Data
+https://github.com/shannonpowelson/comparing-baltimore-hunterdon-county-individual-income/blob/main/Analyzed%20Excel%20Data.xlsm
+This file contains the condensed data from each of the raw data files described above.  It also contains the excel spreedsheets used to create each graph used in the Data Analysis section.  
 
 
 ## Data Analysis
