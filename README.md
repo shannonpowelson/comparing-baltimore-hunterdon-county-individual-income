@@ -21,7 +21,9 @@ First, I investigated the impact of job density on income distribution in the fo
 ![alt text](https://github.com/shannonpowelson/comparing-baltimore-hunterdon-county-individual-income/blob/main/jobdensityhunterdoncounty.png)
 The above graphs show that there is no clear association between job density and individual income distribution in Baltimore City and Hunterdon County.  This shows that the amount of jobs in a certain area is not impacting the income.  
 
-Since job density is not playing a role in income distribution differences, I investigated the impact of population density on income distribution in the following combination charts.  
+Since job density is not playing a role in income distribution differences, I investigated the impact of population density on income distribution in the following combination charts. 
+![alt text](https://github.com/shannonpowelson/comparing-baltimore-hunterdon-county-individual-income/blob/main/populationdensitybaltimore.png)
+
 
 ## Summary
 
