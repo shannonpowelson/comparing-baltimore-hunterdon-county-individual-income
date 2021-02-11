@@ -18,6 +18,7 @@ For the next part of the analysis, I tested my hypothesis on why I thought that 
 
 First, I investigated the impact of job density on income distribution in the following combination charts.  
 ![alt text](https://github.com/shannonpowelson/comparing-baltimore-hunterdon-county-individual-income/blob/main/jobdensitybaltimore.png)
+![alt text](https://github.com/shannonpowelson/comparing-baltimore-hunterdon-county-individual-income/blob/main/jobdensityhunterdoncounty.png)
 
 ## Summary
 
