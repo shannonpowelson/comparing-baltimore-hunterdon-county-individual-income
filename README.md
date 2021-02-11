@@ -13,6 +13,7 @@ To start this analysis, we will look at two bar graphs showing the distribution 
 The above graphs show that individual income is distributed differently in Baltimore City and Hunterdon County.  In Baltimore City, there is a large range of incomes.  There are very high incomes and very low incomes.  However, in Hunterdon County, the incomes are very similar and consistent.  There are no extreme values like in the incomes for Baltimore City.  
 
 __Why are incomes distributed differently in Baltimore City and Hunterdon County?__
+
 For the next part of the analysis, I tested my hypothesis on why I thought that this difference in income distrbution occurs.  I thought that job density and population density might have an impact on income distribution.  
 First, I investigated the impact of job density on income distribution in the following graphs.  
 
