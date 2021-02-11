@@ -23,6 +23,7 @@ The above graphs show that there is no clear association between job density and
 
 Since job density is not playing a role in income distribution differences, I investigated the impact of population density on income distribution in the following combination charts. 
 ![alt text](https://github.com/shannonpowelson/comparing-baltimore-hunterdon-county-individual-income/blob/main/populationdensitybaltimore.png)
+![alt text](https://github.com/shannonpowelson/comparing-baltimore-hunterdon-county-individual-income/blob/main/populationdensityhunterdoncounty.png)
 
 
 ## Summary
